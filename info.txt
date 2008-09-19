@@ -1,0 +1,8 @@
+# General Plugin Info do not edit
+
+author Andreas Gohr
+email  andi@splitbrain.org
+date   2008-09-19
+name   Talk like a Pirate Plugin
+desc   Pirate export filter, me matey! Arrrr!
+url    http://wiki.splitbrain.org/plugin:pirate
