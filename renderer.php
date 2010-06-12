@@ -18,11 +18,8 @@ require_once DOKU_INC.'inc/parser/xhtml.php';
  */
 class renderer_plugin_pirate extends Doku_Renderer_xhtml {
 
-    /**
-     * return some info
-     */
-    function getInfo(){
-        return confToHash(dirname(__FILE__).'/info.txt');
+    function canRender($format) {
+      return ($format=='xhtml');
     }
 
     function cdata($text) {
