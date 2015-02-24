@@ -2,7 +2,7 @@
 base   pirate
 author Andreas Gohr
 email  andi@splitbrain.org
-date   2010-06-12
+date   2011-02-05
 name   Talk like a Pirate Plugin
 desc   Pirate export filter, me matey! Arrrr!
 url    http://www.splitbrain.org/plugin:pirate
